@@ -1,0 +1,4 @@
+<config name="config-file">
+        <port>5000</port>
+        <myhost>192.168.1.186</myhost>
+</config>
